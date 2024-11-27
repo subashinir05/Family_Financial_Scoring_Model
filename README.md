@@ -8,7 +8,7 @@ Install the required libraries:
 pip install streamlit pandas
 
 Run the app:
-streamlit run financial_dashboard.py
+streamlit run dashboard.py
 
 Model Logic
 
